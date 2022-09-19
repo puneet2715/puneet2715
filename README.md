@@ -5,7 +5,10 @@
 <!-- Visitor Count -->
 ### Hi there 👋
 
-> `Please Refresh the page and enjoy 😎 #MemeAddict`
+---
+
+<details close>
+> Please Refresh the page and enjoy 😎 #MemeAddict
 
 <summary>Random Meme</summary>
 
