@@ -1,3 +1,8 @@
+<!-- Visitor Count -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=puneet2715.visitor-badge)
+
+<!-- Visitor Count -->
 ### Hi there 👋
 
 <!--
