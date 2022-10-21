@@ -8,10 +8,8 @@
 ---
 
 <details close>
-> Please Refresh the page and enjoy 😎 #MemeAddict
-
-<summary>Random Meme</summary>
-
+ > Please Refresh the page and enjoy 😎 #MemeAddict
+ 
 <p align="center">
   <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="auto" height="400">
 </p>
