@@ -15,7 +15,7 @@
  <summary>Random Meme</summary>
 
  <p align="center">
-  <img src="https://memeapi-thorved.herokuapp.com/meme/ProgrammerHumor" width="auto" height="400">
+  <img src="http://146.56.48.212:4010/random" width="auto" height="400">
 </p>
 </details>
 
