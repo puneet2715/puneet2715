@@ -1,8 +1,9 @@
 <!-- Visitor Count -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=puneet2715.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=puneet2715.visitor-badge) [![wakatime](https://wakatime.com/badge/user/2abefe5c-f7cb-4f4e-9a4a-e85ed9b9087a.svg?style=social)](https://wakatime.com/@2abefe5c-f7cb-4f4e-9a4a-e85ed9b9087a)
 
 <!-- Visitor Count -->
+
 ### Hi there 👋
 
 ---
