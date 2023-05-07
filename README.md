@@ -38,7 +38,7 @@
 <br>
 <br>
 <!-- Twitter -->
-<a href="https://twitter.com/BadLfeDecisions" target="blank"><img src="https://img.shields.io/twitter/follow/PuneetArora?logo=twitter&style=for-the-badge" alt="puneetArora" /></a>
+<a href="https://twitter.com/BadLfeDecisions" target="_blank"><img src="https://img.shields.io/twitter/follow/PuneetArora?logo=twitter&style=for-the-badge" alt="puneetArora" /></a>
 </p>
 
 ---
