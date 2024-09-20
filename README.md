@@ -2,6 +2,8 @@
 <!-- will add later -->
 
 [![wakatime](https://wakatime.com/badge/user/2abefe5c-f7cb-4f4e-9a4a-e85ed9b9087a.svg?style=social)](https://wakatime.com/@2abefe5c-f7cb-4f4e-9a4a-e85ed9b9087a)
+<br>
+[![](https://visitcount.itsvg.in/api?id=puneet2715&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi, I'm <a href="https://resume.shadowdragon.one">ShadowDragon</a> 👋</h1>
 
