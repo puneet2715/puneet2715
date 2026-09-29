@@ -43,7 +43,7 @@
 
 ![Puneet's stats](https://github-readme-stats.vercel.app/api?username=puneet2715&count_private=true&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puneet2715&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=puneet2715&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
